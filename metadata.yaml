@@ -38,6 +38,8 @@ creator:
     gutenberg_agent_id: '44616'
     url: http://www.gutenberg.org/2009/agents/44616
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36381#Op-de-Levensreis
 gutenberg_issued: '2011-06-11'
 gutenberg_type: Text
 identifiers:
