@@ -1,0 +1,64 @@
+_repo: Op-de-Levensreis_36381
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36381-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Welter, W. L.
+    gutenberg_agent_id: '38946'
+    url: http://www.gutenberg.org/2009/agents/38946
+  - agent_name: Molenaar, P. J.
+    gutenberg_agent_id: '36937'
+    url: http://www.gutenberg.org/2009/agents/36937
+  - agent_name: Snethlage, Hendrik Anne Constantijn
+    birthdate: 1878
+    gutenberg_agent_id: '42755'
+    url: http://www.gutenberg.org/2009/agents/42755
+  - agent_name: Cramer, J. A. (Jan Anthony)
+    alias: Cramer, Jan Anthony
+    birthdate: 1864
+    deathdate: 1952
+    gutenberg_agent_id: '36630'
+    url: http://www.gutenberg.org/2009/agents/36630
+  - agent_name: Vermeer, A. J. A.
+    gutenberg_agent_id: '43570'
+    url: http://www.gutenberg.org/2009/agents/43570
+  - agent_name: Gheel-Gildemeester, Frank van
+    alias: Van Gheel-Gildemeester, Frank
+    gutenberg_agent_id: '44721'
+    url: http://www.gutenberg.org/2009/agents/44721
+  - agent_name: Schuller, J. C.
+    gutenberg_agent_id: '43096'
+    url: http://www.gutenberg.org/2009/agents/43096
+  - agent_name: Gerretsen, J. H. (Jan Hendrik)
+    alias: Gerretsen, Jan Hendrik
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '44616'
+    url: http://www.gutenberg.org/2009/agents/44616
+description: ''
+gutenberg_issued: '2011-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36381'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Christian life'
+tableOfContents: Lenteleven / J. A. Cramer --  Dansen / J. A. Cramer --  Eenvoudigheid
+  / J. H. Gerretsen --  De Toekomst des Heeren / J. H. Gerretsen --  Begeeren en willen
+  / J. H. Gerretsen --  Iets over het lezen der Evangeliën / J. H. Gerretsen --  Hoe
+  God arbeidt / J. H. Gerretsen --  Over geloof en ongeloof / F. v. Gheel Gildemeester
+  --  Niet zonder strijd / P. J. Molenaar --  Bidden / P. J. Molenaar --  De Bijbel
+  / P. J. Molenaar --  Geestdrift en opwinding / P. J. Molenaar --  Roeping / P. J.
+  Molenaar --  Somberheid / P. J. Molenaar --  Moed / P. J. Molenaar --  Uitverkoren
+  / J. C. Schuller --  Jeanne d'Arc / H. A. C. Snethlage --  Met de helden / H. A.
+  C. Snethlage --  Jozef / H. A. C. Snethlage --  Belijdenis / A. J. A. Vermeer --  Als
+  een nevel / A. J. A. Vermeer --  Tot zich zelven gekomen zijnde / A. J. A. Vermeer
+  --  Josua's Gezicht / W. L. Welter.
+title: Op de Levensreis
+url: http://www.gutenberg.org/ebooks/36381
